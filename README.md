@@ -1,3 +1,3 @@
 # wind-turbine-yaw-optimisation-with-RL
-working progress - to be finalised
-![til](./animation.mp4)
+For a full write-up on this project, please refer to:
+![til](./visualisations/floris_animation_screenshot.mp4)
