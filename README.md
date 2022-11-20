@@ -4,11 +4,8 @@
 <!-- ![til](./visualisations/floris_animation_screenshot.jpg) -->
 <p align="center">
   <img src="https://github.com/RichardFindlay/wind-farm-wake-steering-optimisation-with-rl/blob/main/visualisations/floris_animation_screenshot.jpg" />
+  screenshot of animation illustrating optimisation process in quasi-dynamic environment
 </p>
-<p align="center">
-	screenshot of animation illustrating optimisation process in quasi-dynamic environment
-</p>
-
 
 ### Project Description :open_book::
 This repository holds the coded implementation of a [conference paper published by NREL](https://www.nrel.gov/docs/fy20osti/75889.pdf), where there was no publicly available code, work was done to replicate some of the key components of the paper. The use case demonstrates the potential of how even rudimental Reinforcement Learning (RL) techniques can be applied to the wake steering control problem and can even lead to an improvement in performance when compared to traditional optimisation techniques. 
