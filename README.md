@@ -2,7 +2,6 @@
 :rocket: Blog post on personal website :link: [Reinforcement Learning for Offshore Wind Farm Optimisation](https://richardfindlay.co.uk/reinforcement-learning-for-offshore-wind-farm-optimisation-1)
 
 ![til](./visualisations/floris_animation_screenshot.jpg)
-
 *screenshot of animation illustrating optimisation process in quasi-dynamic environment*
 
 ### Project Description :open_book::
