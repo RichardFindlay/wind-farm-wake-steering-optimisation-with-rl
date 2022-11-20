@@ -4,10 +4,9 @@
 <!-- ![til](./visualisations/floris_animation_screenshot.jpg) -->
 <p align="center">
   <img src="https://github.com/RichardFindlay/wind-farm-wake-steering-optimisation-with-rl/blob/main/visualisations/floris_animation_screenshot.jpg" />
-  <figcaption style="font-size: 0.8rem;">screenshot of animation illustrating optimisation process in quasi-dynamic environment</figcaption>
 </p>
 <p align="center">
-screenshot of animation illustrating optimisation process in quasi-dynamic environment
+	screenshot of animation illustrating optimisation process in quasi-dynamic environment
 </p>
 
 
